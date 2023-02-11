@@ -1,0 +1,23 @@
+.container {
+  background: #2c2c2c;
+  margin: 0 auto;
+  width: 100%;
+  min-height: 20vh;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .pravo {
+    color: #fff;
+    margin-bottom: 30px;
+  }
+
+  .production {
+    color:cyan;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+  }
+}
